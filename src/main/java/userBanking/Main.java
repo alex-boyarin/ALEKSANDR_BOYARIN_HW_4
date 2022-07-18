@@ -5,8 +5,7 @@ import userBanking.createTable.TableTransactions;
 import userBanking.createTable.TableUsers;
 
 import java.util.Scanner;
-/*
- Написать программу на Java, предоставляющую следующую функциональность:
+/* Написать программу на Java, предоставляющую следующую функциональность:
 1 Регистрацию нового пользователя
 2 Добавление аккаунта новому пользователю
 3 Пополнение существующего аккаунта
